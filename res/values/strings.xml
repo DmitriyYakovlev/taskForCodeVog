@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaksForCodeVog</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="file_name">file</string>
+
+    <string-array name="urls_array">
+        <item>http://best-picture.org/_ph/28/640782986.jpg</item>
+        <item>http://best-picture.org/_ph/73/515112285.jpg</item>
+        <item>http://best-picture.org/_ph/73/715430081.jpg</item>
+        <item>http://best-picture.org/_ph/73/342588509.jpg</item>
+        <item>http://best-picture.org/_ph/73/45458545.jpg</item>
+        <item>http://best-picture.org/_ph/98/197087689.jpg</item>
+        <item>http://best-picture.org/_ph/98/570375457.jpg</item>
+        <item>http://best-picture.org/_ph/44/897715449.jpg</item>
+        <item>http://best-picture.org/_ph/40/818981154.jpg</item>
+        <item>http://best-picture.org/_ph/75/112956711.jpg</item>
+        <item>http://best-picture.org/_ph/49/896452387.jpg</item>
+        <item>http://best-picture.org/_ph/49/28693288.jpg</item>
+        <item>http://best-picture.org/_ph/49/523765714.jpg</item>
+        <item>http://best-picture.org/_ph/49/814915393.jpg</item>
+        <item>http://best-picture.org/_ph/49/745505067.jpg</item>
+        <item>http://best-picture.org/_ph/49/197080035.jpg</item>
+        <item>http://best-picture.org/_ph/49/224290318.jpg</item>
+        <item>http://best-picture.org/_ph/49/632426814.jpg</item>
+        <item>http://best-picture.org/_ph/49/644676031.jpg</item>
+        <item>http://best-picture.org/_ph/49/794784797.jpg</item>
+    </string-array>
+
+</resources>
